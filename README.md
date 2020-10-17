@@ -1,5 +1,8 @@
-# modul-4-solution
 
-this is the link of assignment
 
-https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
+# Module-4 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://ademift.github.io/modul-4-solution/)
+
